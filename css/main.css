@@ -989,3 +989,11 @@ li {
 .shape-5 {
   z-index: -1;
 }
+
+/*new css 07/01/2021 starts*/
+
+h4.question_headline {
+    font-size: 1.1rem;
+}
+
+/*new css 07/01/2021 ends*/
